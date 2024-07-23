@@ -7,7 +7,7 @@ Feel free donate to my EVM address
 EVM :
 
 ```bash
-0x9902C3A98Df4b240ad5496cC26F89bAb8058f4aE
+0x2c722A1F2f78105DBD5523292B735242Bd90B8Ed
 ```
 
 ## Steps
@@ -15,7 +15,7 @@ EVM :
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/Mnuralim/swisstronik-erc20-mint-token.git
+git clone https://github.com/rikindrn/swisstronik-mint-erc20-token.git
 ```
 
 ```
@@ -106,7 +106,7 @@ npm run transfer
 - push this project to your github and paste your repository link in testnet dashboard
 
 by :
-github : [Mnuralim](https://github.com/Mnuralim)
-twitter : @Izzycracker04
-telegram : @fitriay19
+github : [rikindrn](https://github.com/rikindrn)
+twitter : @rikindrn
+telegram : @rikindrn
 //0x37401D115bC52bBdaa59Df7f7e021523b020F98f
